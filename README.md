@@ -1,4 +1,4 @@
-# Finance Math and Data
+#Finance and Math
 
 #### Technical Skills: Python, SQL, R, C, MATLAB, Java, VBA
 
