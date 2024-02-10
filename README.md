@@ -1,6 +1,6 @@
 # Finance Math and Data
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, R, C, MATLAB, Java, VBA
 
 ## Education 			        		
 - B.S., Actuarial Science | Universidad Autónoma de Guadalajara (_Aug 2020 - May 2024_)
