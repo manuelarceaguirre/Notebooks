@@ -38,7 +38,7 @@ along with forecasting modules.
 ensure alignment with the expected distribution.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Valuation of Call and Put Options for Grupo México: A Comparative Analysis Using Binomial and Black-Scholes-Merton Models
 [Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://figshare.com/articles/journal_contribution/Valuation_of_Call_and_Put_Options_for_Grupo_M_xico_A_Comparative_Analysis_Using_Binomial_and_Black-Scholes-Merton_Models/25201037))
 
 • Calculated fair prices for Grupo Mexico options using MATLAB with no more than 0.1 deviations from MEXDER
