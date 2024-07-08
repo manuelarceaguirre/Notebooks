@@ -4,7 +4,7 @@
 
 ## Education 			        		
 - B.S., Actuarial Science | Universidad Autónoma de Guadalajara (_Aug 2020 - May 2024_)
-- Chartered Financial Analyst Level 1 Candidate	 (_Exam Date: May 2024_)	 
+	 
 
 ## Projects
 ### Valuation of Call and Put Options for Grupo México: A Comparative Analysis Using Binomial and Black-Scholes-Merton Models
