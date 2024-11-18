@@ -1,3 +1,23 @@
+# # PowerShell Script to Install Required Python Libraries with pip
+
+# # Ensure pip is updated
+# Write-Host "Updating pip to the latest version..."
+# python -m pip install --upgrade pip
+
+# # Install each required library
+# Write-Host "Installing libraries..."
+# python -m pip install evidently
+# python -m pip install pandas
+# python -m pip install numpy
+# python -m pip install scipy
+# python -m pip install scikit-learn
+# python -m pip install shap
+# python -m pip install tqdm
+# python -m pip install joblib
+
+# Write-Host "All libraries have been installed successfully!"
+
+
 from evidently import ColumnMapping
 from evidently.metric_preset import DataDriftPreset, DataQualityPreset, TargetDriftPreset
 from evidently.metrics import *
